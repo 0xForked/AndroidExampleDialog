@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExampleFragmentDialog</string>
+    <string name="image_description">Image Description</string>
+    <string name="just_title">Just title</string>
+    <string name="add_text_here">Add Text Here</string>
+    <string name="button_one">BUTTON ONE</string>
+    <string name="button_two">BUTTON TWO</string>
+    <string name="some_test_text">Some test text</string>
+    <string name="click_me_to_show_dialog">Press me to show dialog (save button for OS under 5.0 or above 5.0) </string>
+    <string name="press_me_to_show_alert_dialog">Press me to show alert dialog (Save dialog)</string>
+    <string name="dialog_fragment_under_os_5_0_error">Press me to show fragment dialog (under os 5.0 ERROR)</string>
+</resources>
